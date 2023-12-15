@@ -3,7 +3,7 @@
 ___
 # Google Earth Engine Applications and Developments
 
-Welcome to the repository for my Google Earth Engine (GEE) applications and developments. This repository hosts scripts, applications, and projects related to GEE, showcasing various functionalities, analyses, and geospatial developments.
+Welcome to the repository for Google Earth Engine (GEE) applications and developments. This repository hosts scripts, applications, and projects related to GEE, showcasing various functionalities, analyses, and geospatial developments.
 
 <p align="center">
   <img src="Img/Vídamp.gif" alt="Texto alternativo">
