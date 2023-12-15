@@ -9,7 +9,7 @@ Welcome to the repository for Google Earth Engine (GEE) applications and develop
   <img src="Img/Vídamp.gif" alt="Texto alternativo">
 </p>
 <p align="center">
-  <em>Glacial Retreat using MODIS/MCD43A4 - Modis (Sierra Nevada de Santa Marta-Col)</em>
+  <em>Example screenshot of Glacial Retreat using MODIS/MCD43A4 - Modis (Sierra Nevada de Santa Marta-Col)</em>
 </p>
 
 ## Overview
