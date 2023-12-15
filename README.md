@@ -6,9 +6,8 @@ ___
 Welcome to the repository for my Google Earth Engine (GEE) applications and developments. This repository hosts scripts, applications, and projects related to GEE, showcasing various functionalities, analyses, and geospatial developments.
 
 <p align="center">
-  <img src="Img/Vídamp.gif" alt="Texto alternativo">
+  <em>Glacial Retreat using NDSI - Modis (Sierra Nevada de Santa Marta)</em>
 </p>
-
 
 ## Overview
 
