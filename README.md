@@ -1,5 +1,5 @@
-# Google-Earth-Engine-GEE
-##"Scripts and developments leveraging the Google Earth Engine API"
+# GEE
+## Scripts and developments leveraging the Google Earth Engine API
 ___
 # Google Earth Engine Applications and Developments
 
@@ -25,5 +25,5 @@ Contributions, suggestions, and feedback are welcome! Feel free to open issues o
 
 ## Contact
 
-For any inquiries or further information, feel free to reach out via [email](mailto:alexanderariza@gmail.com) or [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/alexander-ariza/)https://www.linkedin.com/in/alexander-ariza/).
+For any inquiries or further information, feel free to reach out via [email](mailto:alexanderariza@gmail.com) or [LinkedIn](https://www.linkedin.com/in/alexander-ariza/).
 
