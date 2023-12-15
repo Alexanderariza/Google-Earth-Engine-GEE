@@ -15,6 +15,10 @@ Welcome to the repository for Google Earth Engine (GEE) applications and develop
 ## Overview
 
 This repository contains a collection of scripts and applications developed using the Google Earth Engine platform. These projects cover diverse topics, including (mention specific areas or applications you've worked on).
+-   [Earth Engine Homepage](https://earthengine.google.com/)
+-   [Web Code Editor](https://code.earthengine.google.com/)
+-   [Python
+    Installation](https://developers.google.com/earth-engine/python_install)
 
 ## Repository Contents
 
