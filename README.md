@@ -5,6 +5,8 @@ ___
 
 Welcome to the repository for my Google Earth Engine (GEE) applications and developments. This repository hosts scripts, applications, and projects related to GEE, showcasing various functionalities, analyses, and geospatial developments.
 
+![Texto alternativo](Img/Vídeo sin título ‐ Hecho con Clipchamp.gif)
+
 ## Overview
 
 This repository contains a collection of scripts and applications developed using the Google Earth Engine platform. These projects cover diverse topics, including (mention specific areas or applications you've worked on).
